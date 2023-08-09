@@ -25,3 +25,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 3. Prisma migrate
    Run `yarn db:migrate:prod`
+
+## Clickhouse Migrations
+
+- Using [clickhouse-migrations](https://github.com/VVVi/clickhouse-migrations) to run migration for clickhouse db
+- Follow the steps mentioned in the repo's readme
